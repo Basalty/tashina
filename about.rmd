@@ -1,0 +1,13 @@
+---
+title: "Tashina Taylor Resume 2021"
+author: "Tashina Taylor"
+date: "10/28/2021"
+output: html_document
+---
+
+
+---
+title: "About Me"
+---
+
+Why I am awesome. 
