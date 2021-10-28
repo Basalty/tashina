@@ -4,5 +4,17 @@ title: "Tashina's Personal Website"
 
 __Welcome: __ Hello, visitor! Thank you for stopping by to learn a little bit more about me. Please view the "About Me" page to find a collection of information presented informally so you can get a better idea of my personality and background. 
 
-Below you will find projects I'm currently working on or have completed. 
+Here I've created a personal website using RMarkdown and a little bit of CSS. I wanted to showcase any projects I've worked on and make sure I have a data-oriented website available. Below I've answered some questions:
 
+- __In terms of data science, what aspects are you most passionate about and why?__
+My most favorite aspect is that it's interdisciplinary. It doesn't matter what your background is - you can always apply data science and gain new knowledge and insight into anything you think of. I think that's why it's such an appealing career choice to break into for so many. It's fun to dream about being a part of a "buzzword" industry. 
+
+- __What are you looking for right now?__
+I searching for a summer internship or part-time job as a junior data analyst or scientist. I am dying to apply what I learn to real life!
+
+- __What skills are you learning in your current MS program?__
+A ton of statistical methods and how to use them in R, Python, Pandas, SQL. I have learned and continuously practiced estimation and hypothesis testing; desirable properties of estimators; maximum likelihood; 
+one- and two-sample problems; modeling categorical and count data—contingency tables; proportions, risk and odds; logistic regression; log-linear regression mixed effects models; data imputation; prediction and cross-validation;multivariate analytics with the basics of matrix algebra, principal components analysis, cluster analysis, factor analysis, multidimensional scaling.
+
+- __What electives have you chosen?__
+I have chosen and completed Data Visualization, Survival Data, and Quantitative Genomics. 
