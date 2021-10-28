@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-- __Occupation:__ "MS Data Analytics Student at Oregon State University"
-- __Location:__ "Colorado Springs, Colorado"
-- __Hobbies:__ "3D Printing, Cani-cross, Bodybuilding."
+- __Occupation:__ MS Data Analytics Student at Oregon State University
+- __Location:__ Colorado Springs, Colorado
+- __Hobbies:__ 3D Printing, Cani-cross, Bodybuilding.
 
 - __Background:__ From the time I could legally work, that's mostly all I've ever done. I spent my summers working at parks, banks, and barns near my my very small hometown. After highschool, I spent the next 4 years working at various retail locations before deciding it was time to get a degree. The following college summers I ended up falling into the family business of tree logging until I was able to attend Humboldt State University fulltime. I received my degree in geology and set out to be the best damn geologist there ever was...but ended up in engineering. 
 
